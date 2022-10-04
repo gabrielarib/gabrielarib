@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/gabrielarib">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielarib&show_icons=true&theme=aura"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarib&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielarib&show_icons=true&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarib&layout=compact&langs_count=7&theme=radical"/>
 </div>
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
