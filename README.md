@@ -39,8 +39,5 @@ Estudando Jquery no momento
  
   ![](https://komarev.com/ghpvc/?username=gabrielarib&color=blueviolet)
    
-   <a align="left" href="https://api.whatsapp.com/send?phone=5511930340569" target="_blank"><img src="https://img.shields.io/github/followers/{gabrielarib}.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a> 
-   
-  
-  
+
   </div>
