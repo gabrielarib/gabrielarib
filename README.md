@@ -1,6 +1,6 @@
 <h3> Oi, eu sou a Gabriela</h3>
 Atualmente, focada em aprender front-end.<br>
-Estudando Jquery no momento
+Estudando REACT no momento
 <br><br>
 <div align="center">
 
@@ -14,6 +14,9 @@ Estudando Jquery no momento
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">  
   <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="jQuery" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="Boostrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
    <br><br>
    <img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
    <img align="center" alt="Illustrator" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg">
