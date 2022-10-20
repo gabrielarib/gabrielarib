@@ -1,14 +1,22 @@
-<h3> Oi, eu sou a Gabriela</h3>
-Atualmente, focada em aprender front-end.<br>
-Estudando REACT no momento
-<br><br>
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=D83B7D&width=435&lines=Oi%2C+eu+sou+a+Gabi" alt="Typing SVG" /></a>
 
+
+<p>Desenvolvedora web<br></p>
+<p>Estudando REACT no momento</p>
+<br><br>
+
+
+<div align="center">
   <a href="https://github.com/gabrielarib">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielarib&show_icons=true&theme=radical"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarib&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+<br>
+
  <div style="display: inline_block"  align="center"><br>
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=D83B7DFF&height=70&section=header&text=Tecnologias%20estudadas&fontSize=30&fontColor=D8D8D8FF&fontAlign=50&animation=fadeIn" />
+  <br><br>
   <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="CPlusPlus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
