@@ -15,7 +15,6 @@
 <br>
 
  <div style="display: inline_block"  align="center"><br>
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=D83B7DFF&height=70&section=header&text=Tecnologias%20estudadas&fontSize=30&fontColor=D8D8D8FF&fontAlign=50&animation=fadeIn" />
   <br><br>
   <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="CPlusPlus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
