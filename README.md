@@ -2,7 +2,7 @@
 
 
 <p>Desenvolvedora web<br></p>
-<p>Estudando REACT no momento</p>
+<p>Estudando NodeJS no momento</p>
 <br><br>
 
 
