@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=D83B7D&width=435&lines=Oi%2C+eu+sou+a+Gabi" alt="Typing SVG" /></a>
 
 
-<p>Desenvolvedora web<br></p>
-<p>Estudando NodeJS no momento</p>
+<p>Desenvolvedora web/mobile<br></p>
+<p>Estudando Flutter no momento</p>
 <br><br>
 
 
